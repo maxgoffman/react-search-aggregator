@@ -9,7 +9,7 @@ import {resolve} from 'path';
 */
 describe('Bing Reducer', () => {
   
-  it('should return a fetched data action', () => {
+  it('should return a state with a fetched list formatted correctly', () => {
     const responseJsonString = readFileSync(resolve('./src/redux/bing/searchtest.json')).toString();
     const responseBing = JSON.parse(responseJsonString);
     const initialState = { 
