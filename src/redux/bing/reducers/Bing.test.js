@@ -4,7 +4,7 @@ import {readFileSync} from 'fs';
 import {resolve} from 'path';
 
 /** 
-  * @desc Unit Test bing actions
+  * @desc Unit Test bing reducer
   * @author Maximiliano Goffman
 */
 describe('Bing Reducer', () => {
