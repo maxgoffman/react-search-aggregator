@@ -1,0 +1,987 @@
+{
+    "_type": "SearchResponse",
+    "queryContext": {
+        "originalQuery": "pepa"
+    },
+    "webPages": {
+        "webSearchUrl": "https://www.bing.com/search?q=pepa",
+        "totalEstimatedMatches": 7890000,
+        "value": [
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+                "name": "Peppa Pig En Español | Videos De Peppa Pig Capitulos ...",
+                "url": "https://www.youtube.com/watch?v=pxuvcMqzZFw",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.youtube.com/watch?v=pxuvcMqzZFw",
+                "snippet": "¡Bienvenidos al canal oficial de Peppa en Español (Latinoamérica) en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://...",
+                "dateLastCrawled": "2020-10-22T16:01:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
+                "name": "Pepa Pig Español \"En la playa\" - YouTube",
+                "url": "https://www.youtube.com/watch?v=3oA8SgUG8aE",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.youtube.com/watch?v=3oA8SgUG8aE",
+                "snippet": "Cerdita Pepa disfruta de la palya",
+                "dateLastCrawled": "2020-10-22T22:18:00.0000000Z",
+                "language": "en",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2",
+                "name": "Peppa Pig - Vídeos y juegos de Clan TV - RTVE.es",
+                "url": "https://www.rtve.es/infantil/series/peppa-pig/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.rtve.es/infantil/series/peppa-pig",
+                "snippet": "Peppa Pig online, en RTVE.es A la Carta. Todos los programas online de Peppa Pig completos y gratis",
+                "dateLastCrawled": "2020-10-17T09:37:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3",
+                "name": "Qué es una \"pepa\", la droga a la que hizo referencia el ...",
+                "url": "https://www.infobae.com/sociedad/2019/05/12/que-es-una-pepa-la-droga-a-la-que-hizo-referencia-el-presidente-mauricio-macri/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.infobae.com/sociedad/2019/05/12/que-es-una-pepa-la-droga-a-la-que-hizo...",
+                "snippet": "Cartones de papel secante con varias dosis de pepa: su consumo es cada vez más masivo. Mauricio Macri enumeró todo tipo de drogas en el primer párrafo de un comunicado que hizo difundir por las ...",
+                "dateLastCrawled": "2020-10-23T06:10:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4",
+                "name": "pepa la cerdita en español capitulos completos 2015 nuevos ...",
+                "url": "https://m.youtube.com/playlist?list=PLu2wWu_wptlX9J6JoWf-Jw0NrSCPxYfgC",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://m.youtube.com/playlist?list=PLu2wWu_wptlX9J6JoWf-Jw0NrSCPxYfgC",
+                "snippet": "Capitulos completos en español de peppa la cerdita pig temporada 2015 seguidos en esta fantastica lista de episodios seguidos.",
+                "dateLastCrawled": "2020-10-21T05:22:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5",
+                "name": "Peppa's Vacation Peppa Pig Video Clip: S6, Ep139",
+                "url": "http://www.nickjr.com/peppa-pig/videos/peppa-pig-139-peppas-vacation/",
+                "isFamilyFriendly": true,
+                "displayUrl": "www.nickjr.com/peppa-pig/videos/peppa-pig-139-peppas-vacation",
+                "snippet": "Watch Peppa, George, Daddy Pig, and Mummy Pig explore, eat delicious pizza, and buy fun postcards on their vacation in Italy in this video!",
+                "dateLastCrawled": "2020-10-23T06:05:00.0000000Z",
+                "language": "en",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6",
+                "name": "Peppa Pig | Official Site | Welcome to the grown ups site ...",
+                "url": "https://www.peppapig.com/",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.peppapig.com",
+                "snippet": "Welcome to the grown ups site for Peppa Pig and friends. The home for all the latest news, events, apps and activities for your little piggies!",
+                "dateLastCrawled": "2020-10-22T15:17:00.0000000Z",
+                "language": "en",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7",
+                "name": "Pepa la cerdita en español latino (49) - Vídeo Dailymotion",
+                "url": "https://www.dailymotion.com/video/x3t6qri",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://www.dailymotion.com/video/x3t6qri",
+                "snippet": "Ver Pepa la cerdita en español latino (49) - Paki Cruz en Dailymotion",
+                "dateLastCrawled": "2020-10-23T07:41:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8",
+                "name": "ŚWINKA PEPA po Polsku 1h oglądania - YouTube",
+                "url": "https://m.youtube.com/watch?v=hLzhYMjlXWg",
+                "isFamilyFriendly": true,
+                "displayUrl": "https://m.youtube.com/watch?v=hLzhYMjlXWg",
+                "snippet": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+                "dateLastCrawled": "2020-10-22T19:14:00.0000000Z",
+                "language": "en",
+                "isNavigational": false
+            },
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9",
+                "name": "Juegos, episodios y videos de Nick Jr",
+                "url": "http://la.nickjr.tv/",
+                "isFamilyFriendly": true,
+                "displayUrl": "la.nickjr.tv",
+                "snippet": "Juega videojuegos educativos y mira episodios de los programas de Nick Jr como Paw Patrol, Blaze and the Monster Machine, Dora la Exploradora, Bubble Guppies y mucho más en Nick Jr Latinoamérica",
+                "dateLastCrawled": "2020-10-22T23:18:00.0000000Z",
+                "language": "es",
+                "isNavigational": false
+            }
+        ]
+    },
+    "entities": {
+        "value": [
+            {
+                "id": "https://api.cognitive.microsoft.com/api/v7/#Entities.0",
+                "contractualRules": [
+                    {
+                        "_type": "ContractualRules/LicenseAttribution",
+                        "targetPropertyName": "description",
+                        "mustBeCloseToContent": true,
+                        "license": {
+                            "name": "CC-BY-SA",
+                            "url": "http://creativecommons.org/licenses/by-sa/3.0/"
+                        },
+                        "licenseNotice": "Texto bajo la licencia CC-BY-SA"
+                    },
+                    {
+                        "_type": "ContractualRules/LinkAttribution",
+                        "targetPropertyName": "description",
+                        "mustBeCloseToContent": true,
+                        "text": "Ver más en Wikipedia",
+                        "url": "http://es.wikipedia.org/wiki/Peppa_Pig"
+                    },
+                    {
+                        "_type": "ContractualRules/MediaAttribution",
+                        "targetPropertyName": "image",
+                        "mustBeCloseToContent": true,
+                        "url": "http://www.nickjr.com/peppa-pig/"
+                    }
+                ],
+                "webSearchUrl": "https://www.bing.com/entityexplore?q=Peppa+Pig&filters=sid:%22565812ff-b9c3-cbda-bb95-b48a055ece7b%22&elv=AXXfrEiqqD9r3GuelwApuloekIQNdi71M0WNRW*LzT4gDuIXc8bQ0BBVmXLNEh3DdaTl1r6XqkMDqScq!g*t4gpe0KxgsujF1V6jPX*fK!mJ",
+                "name": "Peppa Pig",
+                "url": "http://www.peppapig.com/",
+                "image": {
+                    "name": "Peppa Pig",
+                    "thumbnailUrl": "https://www.bing.com/th?id=AMMS_b98d128e03aaa6c5bb42793d3c0d8c2d&w=110&h=110&c=7&rs=1&qlt=80&cdv=1&pid=16.1",
+                    "provider": [
+                        {
+                            "_type": "Organization",
+                            "url": "http://www.nickjr.com/peppa-pig/"
+                        }
+                    ],
+                    "hostPageUrl": "http://upload.wikimedia.org/wikipedia/commons/8/84/PeppaPigAldridge2009.jpg",
+                    "width": 110,
+                    "height": 110,
+                    "sourceWidth": 474,
+                    "sourceHeight": 316
+                },
+                "description": "Peppa Pig es una serie infantil de dibujos animados británica creada por Neville Astley y Mark Baker. Fue estrenada el 31 de mayo de 2004 en el canal británico Channel 5. En España se emite desde 2010 por Clan y luego fue transmitida en Disney Junior. Su emisión en Hispanoamérica comenzó en 2006 por el canal Boomerang y hasta el año 2008 para Venezuela. Poco después, en 2013, se volvió a emitir por el canal Discovery Kids, esta vez doblada en México para Latinoamérica.",
+                "entityPresentationInfo": {
+                    "entityScenario": "DominantEntity",
+                    "entityTypeHints": [
+                        "TelevisionShow"
+                    ]
+                },
+                "bingId": "565812ff-b9c3-cbda-bb95-b48a055ece7b"
+            }
+        ]
+    },
+    "images": {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#Images",
+        "readLink": "https://api.cognitive.microsoft.com/api/v7/images/search?q=pepa&qpvt=pepa",
+        "webSearchUrl": "https://www.bing.com/images/search?q=pepa&qpvt=pepa",
+        "isFamilyFriendly": true,
+        "value": [
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=EE231E8D3E08FEACC2544F4B96DDC5992D594F89&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios completos 🍼Niños! | Pepa la ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.8QOYaH3fP_tSdaXVWdRXhQHaEK&pid=Api",
+                "datePublished": "2020-05-12T18:34:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/gFqSyhi_nV4/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=gFqSyhi_nV4",
+                "contentSize": "60559 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=gFqSyhi_nV4",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=A75AD4102EC5FF48FA4E528E056A393E202B1CF3&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios completos | Especial de ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.AwamyiEamaGLomB5pF2J7gHaEK&pid=Api",
+                "datePublished": "2019-11-02T14:13:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/IbqIr-J7a-Y/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=IbqIr-J7a-Y",
+                "contentSize": "67891 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=IbqIr-J7a-Y",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=F33888E00168D2A439E3510EB153B7912B2ECCD8&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios | PERFUME | Pepa la cerdita ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.TE9T8lFA8yhWHT9e_UnGLwHaEK&pid=Api",
+                "datePublished": "2020-02-26T13:19:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/hOE7nKIjbGI/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=hOE7nKIjbGI",
+                "contentSize": "97371 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=hOE7nKIjbGI",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=F06AEED53D7416570F6E925B143C3E0EDCE784D1&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios Completos | Especial de ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Ii0ltwcHXaF5XeOmtPmNMQHaEK&pid=Api",
+                "datePublished": "2020-07-11T12:00:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/PN4lcDT0f_s/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=PN4lcDT0f_s",
+                "contentSize": "73287 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=PN4lcDT0f_s",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=4339690E94C976F4414B483D740C93F6E45AB0C3&FORM=IQFRBA",
+                "name": "Pepa pig - AldLogos",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.nYTeB-Q8ZM952xE6H_wBIAHaJs&pid=Api",
+                "datePublished": "2020-05-25T17:22:00.0000000Z",
+                "contentUrl": "http://3.bp.blogspot.com/-51fY7E_ChOo/U17muLIroPI/AAAAAAAAAgU/FhGJln5vw7I/s1600/pepa.jpg",
+                "hostPageUrl": "https://aldlogos.blogspot.com/2014/04/pepa-pig.html",
+                "contentSize": "117858 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://aldlogos.blogspot.com/2014/04/pepa-pig.html",
+                "width": 1222,
+                "height": 1600,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 620
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=53523AEF5B36551DAE2824700ADE4291B3209C9D&FORM=IQFRBA",
+                "name": "Peppa Pig en Español - Compilaciòn 10 - Pepa la cerdita ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.rk5C8cdej7t_oFBv8C5TiAHaEK&pid=Api",
+                "datePublished": "2018-01-30T15:43:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/sofykGw-lRQ/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=sofykGw-lRQ",
+                "contentSize": "53137 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=sofykGw-lRQ",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=EDCB134EFA9581C87D4C527F8204F117391D791B&FORM=IQFRBA",
+                "name": "Peppa Pig en Español - Compilaciòn 11 - Pepa la cerdita ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.qrTtR561IygVHzeFug973QHaEK&pid=Api",
+                "datePublished": "2018-02-01T10:38:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/lXVtt3nUhLI/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=lXVtt3nUhLI",
+                "contentSize": "98390 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=lXVtt3nUhLI",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=B47F72686AF6F721A408FF6EC15C5777D2010749&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios | ¡Feliz cumpleaños ️ ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.afWJNnYFbLuseuT2177jCQHaEK&pid=Api",
+                "datePublished": "2020-02-27T13:17:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/Q_LAlBP6bpc/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=Q_LAlBP6bpc",
+                "contentSize": "75737 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Q_LAlBP6bpc",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=291CD5E6DF7296272AC1B8C45C374091A70322DF&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios completos | Amigos por ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.pVd6bkFJFVstbLLHDpS2TgHaEK&pid=Api",
+                "datePublished": "2020-01-29T16:30:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/0IoepaGh2Tw/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=0IoepaGh2Tw",
+                "contentSize": "76757 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=0IoepaGh2Tw",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=7CD63ADFF81BD4F9F4F5D47F11E580A09F2866BF&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios | Bebé Peppa y Bebé Suzy ️ ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP._WC4D0Zqhg3Gair9cJVpdwHaEK&pid=Api",
+                "datePublished": "2020-06-07T12:56:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/a9X1xOCyCpk/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=a9X1xOCyCpk",
+                "contentSize": "78417 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=a9X1xOCyCpk",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=8DD8F19E28B75CBAC1FC91F2B227990E307BCC55&FORM=IQFRBA",
+                "name": "Peppa Pig En Español - Mi primito - Capitulos Completos ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.sTegbXnE519IEoYE3BZJrQHaEK&pid=Api",
+                "datePublished": "2018-04-19T23:05:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/Tgm51IV4KxM/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=Tgm51IV4KxM",
+                "contentSize": "38865 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Tgm51IV4KxM",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=DE6C344CDE17D723AE3A76CE2FF5BBECC182A667&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios completos 🍼Niños 2 | Pepa ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.5qP3w8Qtrjf09O23nEMzgQHaEK&pid=Api",
+                "datePublished": "2019-09-17T10:11:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/uJYiHN-3QCI/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=uJYiHN-3QCI",
+                "contentSize": "57372 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=uJYiHN-3QCI",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=B21B1F0F2A8B70801BDFF97DFF6C0692BC308D80&FORM=IQFRBA",
+                "name": "Library of pepa graphic library png files Clipart Art 2019",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.hX2kmsWOMLWf8xmK9JyLVwHaJz&pid=Api",
+                "datePublished": "2020-05-27T00:44:00.0000000Z",
+                "contentUrl": "https://clipartart.com/images/pepa-clipart-1.jpg",
+                "hostPageUrl": "https://clipartart.com/categories/pepa-clipart.html",
+                "contentSize": "69562 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://clipartart.com/categories/pepa-clipart.html",
+                "width": 800,
+                "height": 1059,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 627
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=69BC8C66CC4CBE55F861E76B8C69767993684789&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios completos | De vacaciones ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.4j6M-P5uAdgC6-sRscR2pAHaEK&pid=Api",
+                "datePublished": "2019-08-03T02:27:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/Uvg2B3LcsVs/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=Uvg2B3LcsVs",
+                "contentSize": "109972 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Uvg2B3LcsVs",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=AFC5CF8DC5C8E7A5CEAE45A0CDFFE06EA919ECE8&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios completos | Temporada 7 ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.Rx7PxGpKZyOA0cXoqecIrAHaEK&pid=Api",
+                "datePublished": "2019-10-25T13:35:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/xSIiCKHsKeY/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=xSIiCKHsKeY",
+                "contentSize": "72145 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=xSIiCKHsKeY",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=35A2C6A7510F9997C6ABF427BBC5BA5FDC50EED5&FORM=IQFRBA",
+                "name": "PEPA PIG FIGURA MINI 2 UNIDADES - comprar online en ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.bq1tvMVhzUKYGBqz9odgjwHaHa&pid=Api",
+                "datePublished": "2018-11-07T16:36:00.0000000Z",
+                "contentUrl": "https://www.lacasadelasfiestas.com/10541-thickbox_default/pepa-pig-figura-mini-2-unidades.jpg",
+                "hostPageUrl": "http://www.lacasadelasfiestas.com/9696-pepa-pig-figura-mini-2-unidades.html",
+                "contentSize": "24726 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "http://www.lacasadelasfiestas.com/9696-pepa-pig-figura-mini-2-unidades.html",
+                "width": 600,
+                "height": 600,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 474
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=13F00E4066AC6216697495E70E8E9B3C59EE9BBB&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios completos | El ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.9U-m4yvQOtqdkeb7I0sKhAHaEK&pid=Api",
+                "datePublished": "2020-04-25T17:14:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/BenLskrBT9A/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=BenLskrBT9A",
+                "contentSize": "75914 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=BenLskrBT9A",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=EEC463E8D55C7221699BCA36819C17F4A07FA856&FORM=IQFRBA",
+                "name": "Hippo Pepa Baby Shop 1.3.6 - Descargar para Android APK Gratis",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.DwY2YhHNZaRv18m9TgJv5QHaEK&pid=Api",
+                "datePublished": "2019-01-23T01:57:00.0000000Z",
+                "contentUrl": "https://imag.malavida.com/mvimgbig/download-fs/hippo-pepa-baby-shop-17572-3.jpg",
+                "hostPageUrl": "http://www.malavida.com/es/soft/hippo-pepa-baby-shop/android/",
+                "contentSize": "62391 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "http://www.malavida.com/es/soft/hippo-pepa-baby-shop/android/",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=71E0B076DE8A70CC94F6043F421E751F3923D6D7&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Episodios completos 💚Carnaval de ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.2kE08LlsZVIHf9PEeGz97AHaEK&pid=Api",
+                "datePublished": "2019-08-25T10:12:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/K5oN_sZmSjk/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=K5oN_sZmSjk",
+                "contentSize": "119738 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=K5oN_sZmSjk",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/images/search?q=pepa&id=E2B61A7664DB18ADA8D9AC4B4DD6BFD0B9FAC1AD&FORM=IQFRBA",
+                "name": "Peppa Pig en Español Juguetes 💛 Días de juego con Peppa ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OIP.yCTQ0BLhLlmLYawghrJmRQHaEK&pid=Api",
+                "datePublished": "2020-02-26T13:14:00.0000000Z",
+                "contentUrl": "https://i.ytimg.com/vi/S9gKU9_PpeI/maxresdefault.jpg",
+                "hostPageUrl": "https://www.youtube.com/watch?v=S9gKU9_PpeI",
+                "contentSize": "116945 B",
+                "encodingFormat": "jpeg",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=S9gKU9_PpeI",
+                "width": 1280,
+                "height": 720,
+                "thumbnail": {
+                    "width": 474,
+                    "height": 266
+                }
+            }
+        ]
+    },
+    "relatedSearches": {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#RelatedSearches",
+        "value": [
+            {
+                "text": "pepa videos",
+                "displayText": "pepa videos",
+                "webSearchUrl": "https://www.bing.com/search?q=pepa+videos"
+            },
+            {
+                "text": "pepa youtube",
+                "displayText": "pepa youtube",
+                "webSearchUrl": "https://www.bing.com/search?q=pepa+youtube"
+            },
+            {
+                "text": "pepa pig en youtube",
+                "displayText": "pepa pig en youtube",
+                "webSearchUrl": "https://www.bing.com/search?q=pepa+pig+en+youtube"
+            },
+            {
+                "text": "pepa la cerdita en español",
+                "displayText": "pepa la cerdita en español",
+                "webSearchUrl": "https://www.bing.com/search?q=pepa+la+cerdita+en+espa%C3%B1ol"
+            },
+            {
+                "text": "videos de peppa",
+                "displayText": "videos de peppa",
+                "webSearchUrl": "https://www.bing.com/search?q=videos+de+peppa"
+            },
+            {
+                "text": "peppa pig",
+                "displayText": "peppa pig",
+                "webSearchUrl": "https://www.bing.com/search?q=peppa+pig"
+            },
+            {
+                "text": "juegos peppa pig online",
+                "displayText": "juegos peppa pig online",
+                "webSearchUrl": "https://www.bing.com/search?q=juegos+peppa+pig+online"
+            },
+            {
+                "text": "descargar videos de pepa",
+                "displayText": "descargar videos de pepa",
+                "webSearchUrl": "https://www.bing.com/search?q=descargar+videos+de+pepa"
+            }
+        ]
+    },
+    "videos": {
+        "id": "https://api.cognitive.microsoft.com/api/v7/#Videos",
+        "readLink": "https://api.cognitive.microsoft.com/api/v7/videos/search?q=pepa",
+        "webSearchUrl": "https://www.bing.com/videos/search?q=pepa",
+        "isFamilyFriendly": true,
+        "value": [
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=pepa&view=detail&mid=CEDFF43D87CF44AA2B54CEDFF43D87CF44AA2B54",
+                "name": "Peppa Pig en Español | La mejor fiesta de Halloween de Peppa | Pepa la cerdita",
+                "description": "Peppa Pig en Español | La mejor fiesta de Halloween de Peppa | Pepa la cerdita ¡Bienvenidos al canal oficial de Peppa en Español Latino en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://goo.gl/ooH7wv Peppa es una cerdita adorable que vive con sus papás y su hermanito George. Le encanta jugar y ...",
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.iG7VmM6UtlFyzDpsLCiiHAEsDh&pid=Api",
+                "datePublished": "2020-09-25T08:00:00.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=J0q_0X_WYE0",
+                "hostPageUrl": "https://www.youtube.com/watch?v=J0q_0X_WYE0",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=J0q_0X_WYE0",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT27M17S",
+                "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.VCuqRM-HPfTfzg_1602829260&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/J0q_0X_WYE0?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 7870469,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=pepa&view=detail&mid=7F889463838B04FC98617F889463838B04FC9861",
+                "name": "Peppa Pig en Español Episodios completos 🍼Niños! | Pepa la cerdita",
+                "description": "Peppa Pig en Español Episodios completos 🍼Niños 2 | Pepa la cerdita ¡Bienvenidos al canal oficial de Peppa en Español Latino en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://goo.gl/ooH7wv Peppa es una cerdita adorable que vive con sus papás y su hermanito George. Le encanta jugar y disfrazarse ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.PDHXtsA6lfSHHlOFzHi5qQHgFo&pid=Api",
+                "datePublished": "2019-09-11T08:00:00.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=T7X0QcuyKHo",
+                "hostPageUrl": "https://www.youtube.com/watch?v=T7X0QcuyKHo",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=T7X0QcuyKHo",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT39M35S",
+                "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.YZj8BIuDY5SIfw_1600033382&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/T7X0QcuyKHo?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 11583141,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=pepa&view=detail&mid=35EDE617743B1ED4C8C635EDE617743B1ED4C8C6",
+                "name": "Peppa Pig en Español | Paseo de día de Peppa | Pepa la cerdita",
+                "description": "**Peppa Pig en Español Episodios completos | | Pepa la cerdita ¡Bienvenidos al canal oficial de Peppa en Español Latino en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://goo.gl/ooH7wv Peppa es una cerdita adorable que vive con sus papás y su hermanito George. Le encanta jugar y disfrazarse y se pasa ...",
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.aQYrLUN9KldyStJY4LUz2wHgFo&pid=Api",
+                "datePublished": "2020-07-25T14:00:29.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=z5oi824Jxtk",
+                "hostPageUrl": "https://www.youtube.com/watch?v=z5oi824Jxtk",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=z5oi824Jxtk",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT1H4M3S",
+                "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.xsjUHjt0F-btNQ_1602578806&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/z5oi824Jxtk?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 14666044,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=pepa&view=detail&mid=AA62B971B3487300982CAA62B971B3487300982C",
+                "name": "Peppa Pig en Español Episodios completos 🤡CARNAVAL! ⭐️Pepa la cerdita",
+                "description": "Peppa Pig en Español Episodios completos 🤡CARNIVAL! ⭐️Pepa la cerdita ¡Bienvenidos al canal oficial de Peppa en Español Latino en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://goo.gl/ooH7wv Peppa es una cerdita adorable que vive con sus papás y su hermanito George. Le encanta jugar y ...",
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.KMR4Xd_ke_-euPGbwGVbrwEsDh&pid=Api",
+                "datePublished": "2019-02-28T08:00:00.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=qyhhtMkWmRw",
+                "hostPageUrl": "https://www.youtube.com/watch?v=qyhhtMkWmRw",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=qyhhtMkWmRw",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT47M9S",
+                "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.LJgAc0izcbliqg_1597118335&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/qyhhtMkWmRw?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 13532432,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=pepa&view=detail&mid=332E67FFFB08C612F0F2332E67FFFB08C612F0F2",
+                "name": "Peppa Pig en Español Episodios completos 💜Peppa! 💜Pepa la cerdita",
+                "description": "Peppa Pig en Español Episodios completos 💜Peppa! 💜Pepa la cerdita ¡Bienvenidos al canal oficial de Peppa en Español Latino en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://goo.gl/ooH7wv Peppa es una cerdita adorable que vive con sus papás y su hermanito George. Le encanta jugar y disfrazarse ...",
+                "thumbnailUrl": "https://tse2.mm.bing.net/th?id=OVP.uelA6L8R9L_EMDX2sX45DAEsDh&pid=Api",
+                "datePublished": "2019-04-27T08:00:00.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=pMVvmtiSIko",
+                "hostPageUrl": "https://www.youtube.com/watch?v=pMVvmtiSIko",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=pMVvmtiSIko",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT1H10M52S",
+                "motionThumbnailUrl": "https://tse2.mm.bing.net/th?id=OM.8vASxgj7_2cuMw_1603456873&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/pMVvmtiSIko?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 16704546,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=pepa&view=detail&mid=8F2A81BD0573E7EAAB5C8F2A81BD0573E7EAAB5C",
+                "name": "Peppa Pig en Español | Llamando a los doctores por Pedro | Pepa la cerdita",
+                "description": "Peppa Pig en Español | Llamando a los doctores por Pedro | Pepa la cerdita ¡Bienvenidos al canal oficial de Peppa en Español Latino en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://goo.gl/ooH7wv Peppa es una cerdita adorable que vive con sus papás y su hermanito George. Le encanta jugar y ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.IF77-YBB_iGSZpql-otMxAEsDh&pid=Api",
+                "datePublished": "2020-09-26T08:00:00.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=eTrqfYByJVA",
+                "hostPageUrl": "https://www.youtube.com/watch?v=eTrqfYByJVA",
+                "encodingFormat": "",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=eTrqfYByJVA",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT1H3M58S",
+                "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM.XKvq53MFvYEqjw_1603072390&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/eTrqfYByJVA?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 3523783,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=pepa&view=detail&mid=CC810D1CC7A3D90475FECC810D1CC7A3D90475FE",
+                "name": "Peppa Pig en Español | Familia | Pepa la cerdita",
+                "description": "Peppa Pig en Español | Familia | Pepa la cerdita¡ Bienvenidos al canal oficial de Peppa en Español Latino en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://goo.gl/ooH7wv Peppa es una cerdita adorable que vive con sus papás y su hermanito George. Le encanta jugar y disfrazarse y se pasa el día ...",
+                "thumbnailUrl": "https://tse1.mm.bing.net/th?id=OVP.-AlNoiMw6Fchd_a7mM-s0wEsDh&pid=Api",
+                "datePublished": "2020-08-26T20:30:01.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=h14VSRx9890",
+                "hostPageUrl": "https://www.youtube.com/watch?v=h14VSRx9890",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=h14VSRx9890",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT32M4S",
+                "motionThumbnailUrl": "https://tse1.mm.bing.net/th?id=OM._nUE2aPHHA2BzA_1598722493&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/h14VSRx9890?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 11697463,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=pepa&view=detail&mid=9FDD6F0AEBD5FC5E4EDB9FDD6F0AEBD5FC5E4EDB",
+                "name": "Peppa Pig en Español 💧 Dia Mundial del Oceano | Episodios completos | Pepa la cerdita",
+                "description": "Peppa Pig en Español 💧 Dia Mundial del Oceano | Episodios completos | Pepa la cerdita ¡Bienvenidos al canal oficial de Peppa en Español Latino en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://goo.gl/ooH7wv Peppa es una cerdita adorable que vive con sus papás y su hermanito George. Le encanta ...",
+                "thumbnailUrl": "https://tse3.mm.bing.net/th?id=OVP.vti98AKbKRGy-QbLVmeTCAHgFo&pid=Api",
+                "datePublished": "2020-06-06T14:00:14.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=xHdk5HlE2XU",
+                "hostPageUrl": "https://www.youtube.com/watch?v=xHdk5HlE2XU",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=xHdk5HlE2XU",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT1H4M20S",
+                "motionThumbnailUrl": "https://tse3.mm.bing.net/th?id=OM.205e_NXrCm_dnw_1603117492&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/xHdk5HlE2XU?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 13351274,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=pepa&view=detail&mid=6A308C2747BA9FCA57176A308C2747BA9FCA5717",
+                "name": "Flores Gigantes 🌻Peppa Pig en Español Episodios completos | Pepa la cerdita",
+                "description": "Flores Gigantes 🌻Peppa Pig en Español Episodios completos | Pepa la cerdita ¡Bienvenidos al canal oficial de Peppa en Español Latino en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://goo.gl/ooH7wv Peppa es una cerdita adorable que vive con sus papás y su hermanito George. Le encanta jugar y ...",
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.xIXEHyDewxiE1_fItUKwzwHgFo&pid=Api",
+                "datePublished": "2020-04-15T15:30:25.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=Fh3EO7cWmaU",
+                "hostPageUrl": "https://www.youtube.com/watch?v=Fh3EO7cWmaU",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=Fh3EO7cWmaU",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT41M55S",
+                "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.F1fKn7pHJ4wwag_1600767191&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/Fh3EO7cWmaU?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 5127208,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            },
+            {
+                "webSearchUrl": "https://www.bing.com/videos/search?q=pepa&view=detail&mid=4DFC388CC34E493EBA014DFC388CC34E493EBA01",
+                "name": "Peppa: Especial de Pascua! 🐣Peppa Pig en Español 🌸 Pepa la cerdita",
+                "description": "Peppa: Especial de Pascua! 🐣Peppa Pig en Español 🌸 Pepa la cerdita ¡Bienvenidos al canal oficial de Peppa en Español Latino en YouTube! Aquí encontrarás todos tus vídeos favoritos, no olvides suscribirte: https://goo.gl/ooH7wv Peppa es una cerdita adorable que vive con sus papás y su hermanito George. Le encanta jugar y disfrazarse ...",
+                "thumbnailUrl": "https://tse4.mm.bing.net/th?id=OVP.BG8P7gCz3kc2y_k0ov6wFAEsDh&pid=Api",
+                "datePublished": "2020-04-11T08:00:00.0000000",
+                "publisher": [
+                    {
+                        "name": "YouTube"
+                    }
+                ],
+                "isAccessibleForFree": true,
+                "contentUrl": "https://www.youtube.com/watch?v=owIrsiMG_5o",
+                "hostPageUrl": "https://www.youtube.com/watch?v=owIrsiMG_5o",
+                "encodingFormat": "mp4",
+                "hostPageDisplayUrl": "https://www.youtube.com/watch?v=owIrsiMG_5o",
+                "width": 1280,
+                "height": 720,
+                "duration": "PT46M20S",
+                "motionThumbnailUrl": "https://tse4.mm.bing.net/th?id=OM.Abo-SU7DjDj8TQ_1598211771&pid=Api",
+                "embedHtml": "<iframe width=\"1280\" height=\"720\" src=\"http://www.youtube.com/embed/owIrsiMG_5o?autoplay=1\" frameborder=\"0\" allowfullscreen></iframe>",
+                "allowHttpsEmbed": true,
+                "viewCount": 5285417,
+                "thumbnail": {
+                    "width": 160,
+                    "height": 120
+                },
+                "allowMobileEmbed": true,
+                "isSuperfresh": false
+            }
+        ],
+        "scenario": "List"
+    },
+    "rankingResponse": {
+        "mainline": {
+            "items": [
+                {
+                    "answerType": "Videos",
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#Videos"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 0,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.0"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 1,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.1"
+                    }
+                },
+                {
+                    "answerType": "Images",
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#Images"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 2,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.2"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 3,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.3"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 4,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.4"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 5,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.5"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 6,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.6"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 7,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.7"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 8,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.8"
+                    }
+                },
+                {
+                    "answerType": "WebPages",
+                    "resultIndex": 9,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#WebPages.9"
+                    }
+                },
+                {
+                    "answerType": "RelatedSearches",
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#RelatedSearches"
+                    }
+                }
+            ]
+        },
+        "sidebar": {
+            "items": [
+                {
+                    "answerType": "Entities",
+                    "resultIndex": 0,
+                    "value": {
+                        "id": "https://api.cognitive.microsoft.com/api/v7/#Entities.0"
+                    }
+                }
+            ]
+        }
+    }
+}
