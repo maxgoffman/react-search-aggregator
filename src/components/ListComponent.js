@@ -18,7 +18,7 @@ function ListComponent(props) {
             }
             {
                 props.error && 
-                <p>There was a problem loading {props.source} list. Please try again or check your Internet connection.</p>
+                <p data-testid="errortext">There was a problem loading {props.source} list. Please try again or check your Internet connection.</p>
             }
             {
                 props.list && 
@@ -31,7 +31,7 @@ function ListComponent(props) {
 const ListItems = (props) => {
     const items = props.list.map(
         (item) => (
-            <div key={item.link} className="border-top-0 border-left-0 border-right-0 py-1 card">
+            <div data-testid="listcards" key={item.link} className="border-top-0 border-left-0 border-right-0 py-1 card">
                 <a href={item.link}>
                     <div className="card-title" dangerouslySetInnerHTML={{__html: item.title}} />
                 </a>
