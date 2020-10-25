@@ -1,0 +1,4 @@
+//Google Action Types
+export const GOOGLE_BEGIN_FETCH = 'GOOGLE_BEGIN_FETCH';
+export const GOOGLE_FETCHED_DATA = 'GOOGLE_FETCHED_DATA';
+export const GOOGLE_ERROR_FETCH = 'GOOGLE_ERROR_FETCH';
