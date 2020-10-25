@@ -3,12 +3,15 @@ import { render } from '@testing-library/react';
 import ListComponent from './ListComponent';
 
 test('Check list component variations', async () => {
+  //first check if loading renders
   var { getByTestId } = render(<ListComponent loading={true} error={null} list={null} source="Google" />)
   const loading = getByTestId('fontAwesomeLoadingIcon');
   expect(loading).toBeInTheDocument();
+  //then check if error is shown
   var { getByTestId } = render(<ListComponent loading={false} error="Lorem ipsum..." list={null} source="Google" />)
   const errorMsg = getByTestId('errortext');
   expect(errorMsg).toBeInTheDocument();
+  //finally check if the list is rendered
   var { getByText, getAllByTestId } = render(<ListComponent 
     loading={false} 
     error={null}

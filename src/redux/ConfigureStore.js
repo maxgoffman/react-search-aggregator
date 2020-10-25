@@ -13,6 +13,7 @@ export const ConfigureStore = () => {
             Google,
             Bing
         }),
+        //using thunk for async calls
         applyMiddleware(thunk)
     );
     

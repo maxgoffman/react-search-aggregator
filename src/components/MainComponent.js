@@ -15,7 +15,7 @@ import ListComponent from './ListComponent';
   * that way Redux doesn't use the connect 
   * wrapping component.
   * @author Maximiliano Goffman
-  * @required react react-router-dom react-redux ...
+  * @required react react-redux ...
 */
 const Main = React.memo( (props) => {
   const reduxProps = useSelector(state => ({
@@ -32,6 +32,8 @@ const Main = React.memo( (props) => {
   const queryRef = useRef(null);
   const searchEngineRef = useRef(null);
   
+  //Captures submit event and dispatches
+  //actions for bing and/or google
   const handleSubmit = (event) => {
     event.preventDefault();
     const query = 
@@ -88,6 +90,10 @@ const Main = React.memo( (props) => {
           </div> 
         </div>
         {
+          //using conditional rendering for this
+          //if searchEngineSelected is not null
+          //it means the user has triggered 
+          //the search at least once
           searchEngineSelected &&
           <div className="row">    
               {

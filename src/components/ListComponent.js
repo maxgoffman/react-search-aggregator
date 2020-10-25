@@ -4,7 +4,8 @@ import { Loading } from './controls/loadplaceholder/LoadingComponent';
 
 /** 
   * @desc List Component:
-  * Displays a list of cards.
+  * Displays a list of cards. 
+  * Tried to keep code simple and effective
   * @author Maximiliano Goffman
   * @required bootstrap 4
 */

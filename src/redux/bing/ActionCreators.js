@@ -35,16 +35,18 @@ export const getList = (q) => async (dispatch) => {
   }
 };
 
-
+/* Used to dispatch the beginning of the asynchronous action */
 export const initFetch = () => ({
   type: ActionTypes.BING_BEGIN_FETCH
 });
 
+/* Success, return the list of items */
 export const fetchSuccess = (list) => ({
   type: ActionTypes.BING_FETCHED_DATA,
   list: list
 });
 
+/* Failed, return an error message */
 export const fetchFailed = (errmess) => ({
   type: ActionTypes.BING_ERROR_FETCH,
   error: errmess

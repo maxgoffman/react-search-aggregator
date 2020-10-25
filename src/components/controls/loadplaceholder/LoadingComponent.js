@@ -5,7 +5,7 @@ import {faSpinner} from '@fortawesome/free-solid-svg-icons';
 /** 
   * @desc Loading component:
   * Adds a placeholder while we're loading data.
-  * @author Maximiliano Goffman maxgoffman@gmail.com
+  * @author Maximiliano Goffman
 */
 export const Loading = () => {
     return(

@@ -6,7 +6,7 @@ import './App.css';
 
 //starts redux store
 const store = ConfigureStore();
-
+/* Renders Main Component wrapped by redux store */
 function App() {
   return (
     <Provider store={store}>
